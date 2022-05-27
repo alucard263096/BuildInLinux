@@ -1,0 +1,8 @@
+/src/BuildInLinux/BuildInLinux/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/src/BuildInLinux/BuildInLinux/bin/Debug/BuildInLinux.exe.config
+/src/BuildInLinux/BuildInLinux/bin/Debug/BuildInLinux.exe.mdb
+/src/BuildInLinux/BuildInLinux/bin/Debug/BuildInLinux.exe
+/src/BuildInLinux/BuildInLinux/obj/Debug/BuildInLinux.exe
+/src/BuildInLinux/BuildInLinux/obj/Debug/BuildInLinux.exe.mdb
+/src/BuildInLinux/BuildInLinux/bin/Debug/CommonLib.dll
+/src/BuildInLinux/BuildInLinux/bin/Debug/CommonLib.dll.mdb

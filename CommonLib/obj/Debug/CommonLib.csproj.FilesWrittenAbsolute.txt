@@ -1,0 +1,5 @@
+/src/BuildInLinux/CommonLib/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/src/BuildInLinux/CommonLib/bin/Debug/CommonLib.dll.mdb
+/src/BuildInLinux/CommonLib/bin/Debug/CommonLib.dll
+/src/BuildInLinux/CommonLib/obj/Debug/CommonLib.dll
+/src/BuildInLinux/CommonLib/obj/Debug/CommonLib.dll.mdb
